@@ -34,6 +34,7 @@ h2{ background-color:#333; color:#fff;}
          * 2개이상 사용할 경우, 띄어쓰기로 구분하여 사용
          auto => 위아래:0, 좌우:균등하게 맞추어라(가운데배치)
          * 단, auto를 사용시 float과 함께 사용하면, 가운데 오지 않는다.
+
 */
 
 hr {margin: 0; width: 100%; clear:both;}

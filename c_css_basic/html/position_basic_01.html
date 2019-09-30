@@ -35,6 +35,7 @@
     var stick = $('.sticky');  // document.getElementsByclassName('sticky')
     var st_offsetT = stick.offset().top;
     var st_offsetL = stick.offset().left;
+
     $(window).on('scroll', function(){
       val = $(window).scrollTop();
       
@@ -44,6 +45,7 @@
         stick.removeAttr('style');
       }
     });
+
   })(jQuery);
 </script>
 </body>

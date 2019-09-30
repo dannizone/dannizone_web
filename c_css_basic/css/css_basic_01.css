@@ -11,6 +11,7 @@ h3{margin: 0; padding: 1rem;  background-color: #fff;}
 /* 
   단위: 1cm => 10mm => x
   임의 단위는 있다.(http://www.endmemo.com/sconvert/millimeterpixel.php)
+
   최초의 기본설정에서 ( 16px = 12pt = 100% = 1em = 1rem )
 */
 
@@ -27,8 +28,10 @@ h3{margin: 0; padding: 1rem;  background-color: #fff;}
 display:속성은 형태를 변형처리할때 사용.
         block(크기를 가짐, 아래로 쌓인다) || inline(옆으로 나열, 크기를 가질 수 없다) || inline-block(크기와 옆으로 나열, 알 수 없는 공백)
         none(강제로 사라지게 만드는 기능-존재도 없게 만드는 기능)
+
 float: 옆으로 나열하게 만드는 기능, inline요소일 경우 float을 사용하면 강제로 block 요소로 변경
        left(부모의 크기를 기준으로 왼쪽부터 정렬) || right(부모의 크기를 기준으로 오른쪽부터 정렬)
+
 visibility: display속성과 유사한 기능을 가지고 있다. 하지만 기본 2가지의 속성을 가진다.
             visible(display:block과 같은 보여지게 만드는 기능) || hidden(display:none과같은 사라지는 기능-display와 다른점은 위치하던 자리는 그대로 남아있다)
 */
