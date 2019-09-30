@@ -1,2 +1,2 @@
-# dannizone_web
-html, css, javascript, 
+# smart_uxui_190813
+html, css, javascript, jQuery, scss, git, markdown
